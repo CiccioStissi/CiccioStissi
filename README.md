@@ -15,14 +15,7 @@ passionate about cybersecurity, software development, and digital forensics.
   
   ## 🌐 Network
 
-  <a href="www.linkedin.com/in/salvatore-francesco-stissi-698496255]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[https://www.instagram.com/francesco_stissii/]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  
-  ---
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francesco_stissii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-francesco-stissi-698496255/) 
 
 
   
